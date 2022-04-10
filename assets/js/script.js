@@ -12,7 +12,6 @@ var passwordSelectors =""
 
 //This function make the password
 function generatePassword(){
-  window.alert("This works")
 
   // reset password  selectors 
   passwordSelectors = ""
